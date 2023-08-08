@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demoDialog</string>
+    <string name="demo1">DEMO 1 - SIMPLE DIALOG</string>
+    <string name="enterTxt">Enter Some Text</string>
+</resources>
